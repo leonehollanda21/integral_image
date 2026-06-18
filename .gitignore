@@ -1,0 +1,10 @@
+# executável
+teste
+
+# arquivos gerados
+integral_c.txt
+queries.txt
+
+# python cache
+__pycache__/
+*.pyc
